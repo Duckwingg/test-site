@@ -1,3 +1,4 @@
-p {
+p, li, h1 {
     color: red;
 }
+#my-id1 {color:blue;}
