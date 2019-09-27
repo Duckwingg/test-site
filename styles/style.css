@@ -1,4 +1,17 @@
-p, li, h1 {
-    color: red;
+p, li {
+    color:black;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
-#my-id1 {color:blue;}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+#my-id1 {color:peru;}
+html {
+    font-size: 10px; /* px set base font to 10px*/
+    font-family: "Open Sans", sans-serif;
+}
